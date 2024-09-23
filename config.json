@@ -3,7 +3,7 @@
     "quack_amount": 2,
     "quack_delay": 0.3,
     "account_delay": 5,
-    "complete_task": true,
+    "complete_task": false,
     "countdown_loop": 3800
   }
   
