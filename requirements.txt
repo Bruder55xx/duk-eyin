@@ -2,3 +2,5 @@ Flask
 websockets
 loguru
 colorama==0.4.6
+random
+urllib
