@@ -16,7 +16,6 @@ def index():
 def run_flask():
     app.run(debug=True)
 
-init(autoreset=True)
 
 if __name__ == "__main__":
     _clear()
